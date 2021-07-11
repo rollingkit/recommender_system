@@ -35,3 +35,15 @@ Results:
 | | Decision Tree | 0.85756 |
 | | Random Forest | 0.85756 |
 | | Gradient Boosted Decision Tree | 0.85753 |
+| 6 | Classifiers (Album, Artist, Genres 1-4) | |
+| | Logistic Regression | 0.85595 | 
+| | Decision Tree | 0.85481 |
+| | Random Forest | 0.85709 |
+| | Gradient Boosted Decision Tree | 0.85539 |
+| 7 | Ensemble (Swapped) | 0.79502 |
+| 8 | Classifers (Mean & Mode, Album, Artist, Genres 1-4) | |
+| | Logistic Regression | 0.82133 |
+| | Decision Tree | 0.82060 |
+| | Random Forest | 0.82147 |
+| | Gradient Boosted Decision Tree | 0.82094 |
+
